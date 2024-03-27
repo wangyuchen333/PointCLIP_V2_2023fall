@@ -1,0 +1,242 @@
+{
+    "airplane": [
+        "A grayscale depth map of an inclined airplane.",
+        "How to describe a depth map of an airplane?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined airplane.",
+        "Make a sentence using these words: an airplane, depth map, obscure."
+    ],
+    "bathtub": [
+        "A grayscale depth map of a bathtub.",
+        "How to describe a depth map of a bathtub?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined bathtub.",
+        "Make a sentence using these words: a bathtub, depth map, obscure."
+    ],
+    "bed": [
+        "A grayscale depth map of a bed.",
+        "How to describe a depth map of a bed?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined bed.",
+        "Make a sentence using these words: a bed, depth map, obscure."
+    ],
+    "bench": [
+        "A grayscale depth map of a bench.",
+        "How to describe a depth map of a bench?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined bench.",
+        "Make a sentence using these words: a bench, depth map, obscure."
+    ],
+    "bookshelf": [
+        "A grayscale depth map of a bookshelf.",
+        "How to describe a depth map of a bookshelf?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined bookshelf.",
+        "Make a sentence using these words: a bookshelf, depth map, obscure."
+    ],
+    "bottle": [
+        "A grayscale depth map of a bottle.",
+        "How to describe a depth map of a bottle?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined bottle.",
+        "Make a sentence using these words: a bottle, depth map, obscure."
+    ],
+    "bowl": [
+        "A grayscale depth map of a bowl.",
+        "How to describe a depth map of a bowl?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined bowl.",
+        "Make a sentence using these words: a bowl, depth map, obscure."
+    ],
+    "car": [
+        "A grayscale depth map of a car.",
+        "How to describe a depth map of a car?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined car.",
+        "Make a sentence using these words: a car, depth map, obscure."
+    ],
+    "chair": [
+        "A grayscale depth map of a chair.",
+        "How to describe a depth map of a chair?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined chair.",
+        "Make a sentence using these words: a chair, depth map, obscure."
+    ],
+    "cone": [
+        "A grayscale depth map of a cone.",
+        "How to describe a depth map of a cone?",
+        "Generate a synonym for the sentence: A grayscale depth map of an inclined cone.",
+        "Make a sentence using these words: a cone, depth map, obscure."
+    ],
+        "cup": [
+            "A depth map of a cup is a grayscale representation of its three-dimensional shape.",
+            "To describe a depth map of a cup, you would analyze the variations in depth across its surface.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined cup.",
+            "Make a sentence using these words: a cup, depth map, obscure."
+        ],
+        "curtain": [
+            "A depth map of a curtain depicts its folds and texture in shades of gray.",
+            "Describing a depth map of a curtain involves capturing its dimensional information in a grayscale format.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined curtain.",
+            "Make a sentence using these words: a curtain, depth map, obscure."
+        ],
+        "desk": [
+            "A depth map of a desk represents the desk's surface variations and contours in grayscale.",
+            "To describe a depth map of a desk, you'd need to analyze the depth information of its topography.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined desk.",
+            "Make a sentence using these words: a desk, depth map, obscure."
+        ],
+        "door": [
+            "A depth map of a door provides a grayscale representation of its shape and surface features.",
+            "Describing a depth map of a door involves explaining the grayscale representation of its three-dimensional structure.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined door.",
+            "Make a sentence using these words: a door, depth map, obscure."
+        ],
+        "dresser": [
+            "A depth map of a dresser showcases its three-dimensional form in shades of gray.",
+            "To describe a depth map of a dresser, one must analyze its depth variations and contours.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined dresser.",
+            "Make a sentence using these words: a dresser, depth map, obscure."
+        ],
+        "flower_pot": [
+            "A depth map of a flower pot portrays its depth and shape in grayscale tones.",
+            "Describing a depth map of a flower pot involves explaining its grayscale representation of volume.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined flower pot.",
+            "Make a sentence using these words: a flower pot, depth map, obscure."
+        ],
+        "glass_box": [
+            "A depth map of a glass box showcases its three-dimensional characteristics in grayscale.",
+            "To describe a depth map of a glass box, you'd analyze the grayscale representation of its structure.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined glass box.",
+            "Make a sentence using these words: a glass box, depth map, obscure."
+        ],
+        "guitar": [
+            "A depth map of a guitar represents the guitar's three-dimensional shape in shades of gray.",
+            "Describing a depth map of a guitar involves capturing its depth and contours in grayscale.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined guitar.",
+            "Make a sentence using these words: a guitar, depth map, obscure."
+        ],
+        "keyboard": [
+            "A depth map of a keyboard showcases the keyboard's three-dimensional features in grayscale tones.",
+            "To describe a depth map of a keyboard, you'd explain the grayscale representation of its structure.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined keyboard.",
+            "Make a sentence using these words: a keyboard, depth map, obscure."
+        ],
+        "lamp": [
+            "A depth map of a lamp depicts the lamp's shape and depth in grayscale.",
+            "Describing a depth map of a lamp involves analyzing its three-dimensional representation in grayscale.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined lamp.",
+            "Make a sentence using these words: a lamp, depth map, obscure."
+        ],    
+        "laptop": [
+            "A grayscale depth map of a laptop can reveal its shape and dimensions.",
+            "To describe a depth map of a laptop, consider the varying shades that represent its contours.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined laptop.",
+            "Make a sentence using these words: a laptop, depth map, obscure."
+        ],
+        "mantel": [
+            "A grayscale depth map of a mantel showcases its depth and surface variations.",
+            "How to describe a depth map of a mantel? Focus on the subtle changes in shading.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined mantel.",
+            "Make a sentence using these words: a mantel, depth map, obscure."
+        ],
+        "monitor": [
+            "A grayscale depth map of a monitor can highlight its screen curvature and edges.",
+            "To describe a depth map of a monitor, emphasize the gradients that depict its form.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined monitor.",
+            "Make a sentence using these words: a monitor, depth map, obscure."
+        ],
+        "night_stand": [
+            "A grayscale depth map of a nightstand reveals its contours and the arrangement of objects on it.",
+            "How to describe a depth map of a nightstand? Analyze the shades that define its structure.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined nightstand.",
+            "Make a sentence using these words: a nightstand, depth map, obscure."
+        ],
+        "person": [
+            "A grayscale depth map of a person captures their three-dimensional appearance.",
+            "To describe a depth map of a person, focus on the nuances of shading that convey depth.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined person.",
+            "Make a sentence using these words: a person, depth map, obscure."
+        ],
+        "piano": [
+            "A grayscale depth map of a piano showcases its keys, lid, and body contours.",
+            "How to describe a depth map of a piano? Highlight the gradients that define its shape.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined piano.",
+            "Make a sentence using these words: a piano, depth map, obscure."
+        ],
+        "plant": [
+            "A grayscale depth map of a plant reveals the three-dimensional structure of its leaves and stems.",
+            "To describe a depth map of a plant, pay attention to the varying shades that depict its form.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined plant.",
+            "Make a sentence using these words: a plant, depth map, obscure."
+        ],
+        "radio": [
+            "A grayscale depth map of a radio can highlight its knobs, buttons, and contours.",
+            "How to describe a depth map of a radio? Analyze the gradients that define its shape.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined radio.",
+            "Make a sentence using these words: a radio, depth map, obscure."
+        ],
+        "range_hood": [
+            "A grayscale depth map of a range hood showcases its ventilation structure and surface details.",
+            "To describe a depth map of a range hood, emphasize the subtle changes in shading that convey depth.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined range hood.",
+            "Make a sentence using these words: a range hood, depth map, obscure."
+        ],
+        "sink": [
+            "A grayscale depth map of a sink reveals its basin shape and faucet details.",
+            "How to describe a depth map of a sink? Focus on the varying shades that define its structure.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined sink.",
+            "Make a sentence using these words: a sink, depth map, obscure."
+        ],
+        "sofa": [
+            "A depth map of a sofa is a visual representation of the sofa's three-dimensional structure.",
+            "To describe a depth map of a sofa, you can analyze its depth values to understand its shape and contours.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined sofa.",
+            "Make a sentence using these words: a sofa, depth map, obscure."
+        ],
+        "stairs": [
+            "A depth map of stairs provides information about the varying heights and positions of each step.",
+            "To describe a depth map of stairs, you can use it to measure the step heights and depth for safety analysis.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined stairs.",
+            "Make a sentence using these words: stairs, depth map, obscure."
+        ],
+        "stool": [
+            "A depth map of a stool represents the stool's 3D structure, including its legs and seat.",
+            "To describe a depth map of a stool, you can analyze the depth information to understand its shape and form.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined stool.",
+            "Make a sentence using these words: a stool, depth map, obscure."
+        ],
+        "table": [
+            "A depth map of a table visually conveys the table's 3D shape and dimensions.",
+            "To describe a depth map of a table, you can use it to measure the table's height and width accurately.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined table.",
+            "Make a sentence using these words: a table, depth map, obscure."
+        ],
+        "tent": [
+            "A depth map of a tent depicts the tent's 3D structure, including its shape and volume.",
+            "To describe a depth map of a tent, you can use it for spatial analysis and to determine its size.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined tent.",
+            "Make a sentence using these words: a tent, depth map, obscure."
+        ],
+        "toilet": [
+            "A depth map of a toilet visually represents the toilet's three-dimensional structure and contours.",
+            "To describe a depth map of a toilet, you can analyze it to understand its shape and depth.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined toilet.",
+            "Make a sentence using these words: a toilet, depth map, obscure."
+        ],
+        "tv_stand": [
+            "A depth map of a TV stand provides information about the TV stand's 3D structure and dimensions.",
+            "To describe a depth map of a TV stand, you can use it to measure the stand's width and depth accurately.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined TV stand.",
+            "Make a sentence using these words: a TV stand, depth map, obscure."
+        ],
+        "vase": [
+            "A depth map of a vase depicts the vase's 3D shape and the curvature of its surface.",
+            "To describe a depth map of a vase, you can analyze it to understand its contours and depth variations.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined vase.",
+            "Make a sentence using these words: a vase, depth map, obscure."
+        ],
+        "wardrobe": [
+            "A depth map of a wardrobe provides information about the wardrobe's 3D structure, including its compartments.",
+            "To describe a depth map of a wardrobe, you can use it to analyze the depth of each compartment for organization.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined wardrobe.",
+            "Make a sentence using these words: a wardrobe, depth map, obscure."
+        ],
+        "xbox": [
+            "A depth map of an Xbox visually represents the Xbox's three-dimensional structure.",
+            "To describe a depth map of an Xbox, you can analyze it to understand its shape and depth.",
+            "Generate a synonym for the sentence: A grayscale depth map of an inclined Xbox.",
+            "Make a sentence using these words: an Xbox, depth map, obscure."
+        ]
+}

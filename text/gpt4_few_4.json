@@ -1,0 +1,242 @@
+{
+    "airplane": [
+        "A depth map of an airplane represents the distance of its various parts from the camera in shades of gray; the closest parts appear brighter, and the furthest parts appear darker.",
+        "To describe a depth map of an airplane, note the variations in gray tones, with the lighter areas signifying parts closer to the camera, like the fuselage and wings, and darker shades indicating more distant parts, like the tail.",
+        "A monochrome depth representation of a tilted airplane.",
+        "The depth map of an airplane revealed obscure details, making the edges of the wings indistinct."
+    ],
+    "bathtub": [
+        "A bathtub depth map shows interior/exterior surfaces in gray shades, with lighter tones for closer bottom/sides and darker tones for distant edges.",
+        "Depth map of a bathtub: light grays for near parts (inner bottom/sides) and dark grays for far parts (outer walls/distant rim).",
+        "A monochromatic depth illustration of a slanted bathtub.",
+        "The depth map of the bathtub, with its curved contours, presented a nuanced view where the depth of the basin became increasingly obscure as it receded from the forefront."
+    ],
+    "bed": [
+        "Depth map of bed: Lighter shades for mattress and pillows (closer), darker tones for frame and far edges (farther).",
+        "Bed depth map: Gradations in gray with lighter areas for mattress surface and pillows (near), darker shades for bed sides and lower frame (distant).",
+        "A monochromatic depth depiction of a slanted bed.",
+        "The depth map of the bed, with its contours highlighted, rendered some details obscure, particularly at the edges where the bed frame became less distinct."
+    ],
+    "bench": [
+        "A depth map of a bench would display the seat and backrest in lighter shades, indicating proximity, while the legs and underside appear in darker tones, signifying distance.",
+        "To describe a depth map of a bench, observe the contrast in shades with lighter areas representing the seat and backrest, closer to the viewer, and darker shades outlining the legs and lower parts, further away.",
+        "A monochromatic depth illustration of a sloped bench.",
+        "The bench's depth map showed subtle contours, with the rear edges becoming obscure and blending into the grayscale background."
+    ],
+    "bookshelf": [
+        "A depth map of a bookshelf displays various shelves in differing shades of gray, with the closest shelves appearing lighter and the furthest shelves and objects on them appearing darker.",
+        "To describe a depth map of a bookshelf, note the gradient of gray tones, with lighter areas indicating shelves and objects closer to the camera and darker shades representing those more distant.",
+        "A monochrome depth representation of a tilted bookshelf.",
+        "The depth map rendered the bookshelf obscure, with the individual books blurring into the varied shades of gray."
+    ],
+    "bottle": [
+        "A depth map of a bottle displays varying shades of gray, with the closest parts like the body and neck appearing lighter, and more distant parts like the base appearing darker.",
+        "To describe a depth map of a bottle, observe the lighter shades indicating the bottle's body and neck which are nearer, and darker shades outlining the base and rear parts as they recede from the viewer.",
+        "A tonal depth representation of a tilted bottle.",
+        "The depth map rendered the bottle with subtle gradations, obscuring finer details like the label and contours."
+    ],
+    "bowl": [
+        "A depth map of a bowl would display varying shades of gray, with the innermost parts appearing darker due to their distance, and the rim and outer surface being lighter as they are closer.",
+        "To describe a depth map of a bowl, note the darker shades representing the bowl's interior depth and the lighter shades on the rim and outer surface, indicating proximity.",
+        "A monochromatic depth rendering of a curved bowl.",
+        "The bowl's depth map made the interior details obscure, with the curves of the bowl fading into different shades of gray."
+    ],
+    "car": [
+        "A depth map of a car shows the varying distances of its parts, with the front or closest part appearing in lighter gray and the rear or distant parts in darker shades.",
+        "To describe a depth map of a car, observe the gradations of gray, with lighter areas indicating the car's front and darker tones suggesting the back and undercarriage.",
+        "A monochromatic depth representation of a tilted car.",
+        "The depth map of the car revealed subtle contours, obscuring the finer details of its design."
+    ],
+    "chair": [
+        "The depth map of a chair displays the seat and backrest in lighter tones, while the legs and any receded parts appear in darker shades.",
+        "When describing a depth map of a chair, highlight the contrast between the light shades of the proximate seat and backrest and the dark shades of the distal legs and rear parts.",
+        "A grayscale contour portrayal of a reclined chair.",
+        "The chair, positioned at an angle, produced a depth map with details that became obscure as they receded from view."
+    ],
+    "cone": [
+        "A depth map of a cone illustrates its circular base in lighter shades, with the point and sides gradually darkening as they recede from the viewer.",
+        "Describing a depth map of a cone involves noting the brighter circular base and the progressively darker shades towards the pointed top and sides.",
+        "A tonal depth illustration of a slanted cone.",
+        "In the depth map, the cone's structure appeared unclear, with its point merging into the darker areas."
+    ],
+    "cup": [
+        "A depth map of a cup shows the rim as the lightest part, indicating closeness, while the base and interior parts appear darker, suggesting depth.",
+        "To describe a depth map of a cup, focus on the lighter rim and gradually darker shades of the cup's sides and bottom.",
+        "A monochrome depth depiction of a tilted cup.",
+        "The depth map highlighted the cup's rim, yet the inner details became obscure in the gray scale transition."
+    ],
+    "curtain": [
+        "A depth map of a curtain displays the folds and edges in varying shades of gray, with the parts closest to the viewer appearing lighter.",
+        "Describing a depth map of a curtain involves observing the lighter shades on the nearest folds and edges, while the deeper recesses appear darker.",
+        "A grayscale depth portrayal of a draped curtain.",
+        "The depth map accentuated the curtain's folds, but the deeper creases were obscured in the grayscale."
+    ],
+    "desk": [
+        "A depth map of a desk shows the surface in lighter shades, indicating proximity, with drawers and edges in progressively darker tones as they recede.",
+        "To describe a depth map of a desk, focus on the lighter shaded top surface as being closer and the darker shaded drawers and sides as further away.",
+        "A shaded depth representation of a slanted desk.",
+        "The depth map rendered the desk, but the shadows created obscure outlines, blurring the drawers and edges."
+    ],
+    "door": [
+        "A depth map of a door highlights the door's flat surface in a uniform shade, with the handle and frame in darker shades, indicating depth.",
+        "Describing a depth map of a door involves noting the relatively even shade of the door itself, with darker shades for the recessed handle and frame.",
+        "A grayscale depth portrayal of a slanted door.",
+        "In the depth map, the door's features like the handle and frame were obscure, blending into the gray tones."
+    ],
+    "dresser": [
+        "A depth map of a dresser displays its front in lighter shades, with handles and drawers in darker shades as they provide depth.",
+        "To describe a depth map of a dresser, mention the lighter front surface and the darker shades of the handles and drawer fronts as they recede.",
+        "A tonal depth diagram of a slanted dresser.",
+        "The dresser's depth map showed indistinct features, as the handles and edges faded into the grayscale."
+    ],
+    "flower_pot": [
+        "A depth map of a flower pot would illustrate the rim in lighter shades, with the base and any protruding flowers in darker tones.",
+        "Describing a depth map of a flower pot entails focusing on the lighter rim as the nearest part and the darker base and flowers as more distant.",
+        "A shaded depth depiction of a sloped flower pot.",
+        "The depth map of the flower pot rendered its structure vague, with the flowers and base blending into the grayscale."
+    ],
+    "glass_box": [
+        "A depth map of a glass box shows the front and top in lighter shades, with the sides and back in darker shades, indicating depth.",
+        "To describe a depth map of a glass box, observe the lighter front and top surfaces as closer, and the darker shaded sides and back as further away.",
+        "A grayscale contour representation of a tilted glass box.",
+        "The depth map of the glass box made its edges obscure, with the sides and back merging into the surrounding gray scale."
+    ],
+    "guitar": [
+        "A depth map of a guitar would show the body and neck with varying shades of gray, highlighting the curves and angles relative to the viewer's position.",
+        "To describe a depth map of a guitar, observe the lighter areas that correspond to the closest regions, such as the center of the body, and the darker areas that define its depth, like the sides.",
+        "A tonal depth diagram of a slanted guitar.",
+        "In the depth map, the guitar seemed obscure, with its frets fading into the gray scale."
+    ],
+    "keyboard": [
+        "A depth map of a keyboard would show the keys in varying shades of gray, with keys closer to the viewer appearing lighter and those farther away darker.",
+        "To describe a depth map of a keyboard, focus on the lighter shades that indicate the closer keys and the darker shades that reveal the more distant keys and spaces between them.",
+        "A monochrome depth portrayal of a slanted keyboard.",
+        "The keyboard's depth map made some keys seem obscure, with the spaces between them blurring into the grayscale."
+    ],
+    "lamp": [
+        "A depth map of a lamp illustrates its shape in different shades of gray, with the base and shade being lighter if closer, and the stand darker as it recedes.",
+        "Describing a depth map of a lamp involves noting the lighter areas of the lamp's base and shade, and the darker tones of its elongated stand and distant parts.",
+        "A shaded depth representation of a sloped lamp.",
+        "In the depth map, the lamp appeared obscure, with its contours merging into varying shades of gray."
+    ],
+    "laptop": [
+        "A depth map of a laptop would display the screen and keyboard in different gray tones, with the closer parts like the keyboard appearing lighter.",
+        "When describing a depth map of a laptop, focus on the lighter shades of the keyboard and darker shades of the screen and edges, illustrating depth.",
+        "A grayscale depth portrayal of a tilted laptop.",
+        "The laptop's depth map rendered some details obscure, with the edges and corners fading into the grayscale background."
+    ],
+    "mantel": [
+        "The depth map of a mantel depicts its surface and edges in varying shades of gray, with the front part appearing lighter and the sides and back darker.",
+        "In describing a depth map of a mantel, highlight the contrast between the lighter shades of the front surface and the darker tones of the sides and rear.",
+        "A tonal depth diagram of a slanted mantel.",
+        "The mantel's depth map created a sense of obscurity, with the edges and intricate designs blending into the grayscale."
+    ],
+    "monitor": [
+        "A depth map of a monitor shows the screen and frame in different shades of gray, with the screen usually appearing lighter and the frame darker.",
+        "Describing a depth map of a monitor involves focusing on the lighter gray of the screen and the darker shades of the frame and stand, indicating distance.",
+        "A monochrome depth representation of an angled monitor.",
+        "The monitor's depth map made the screen's details obscure, with the frame and edges merging into the surrounding gray tones."
+    ],
+    "night_stand": [
+        "The depth map of a night stand illustrates its top surface and drawers in shades of gray, with the top appearing lighter and the sides and back darker.",
+        "To describe a depth map of a night stand, note the lighter areas representing the top surface and darker shades for the sides and back, indicating depth.",
+        "A grayscale contour portrayal of a reclined night stand.",
+        "In the depth map, the night stand seemed obscure, with the details of its drawers and handles fading into the gray scale."
+    ],
+    "person": [
+        "A depth map of a person would display varying shades of gray, with the parts closest to the viewer, like the face and hands, appearing in lighter tones, while the more distant parts, such as the back or feet, appear darker.",
+        "To describe a depth map of a person, focus on the contrast in shades, with the lighter areas representing the parts of the person nearest to the camera, like the chest or face, and the darker shades indicating parts further away, such as the back.",
+        "A monochrome depth representation of a tilted person.",
+        "The depth map of the person made certain features obscure, with contours of the face and body becoming indistinct."
+    ],
+    "piano": [
+        "A depth map of a piano would illustrate the keys and music stand in lighter shades, indicating their closeness, while the sides and back, being more distant, would appear in darker tones.",
+        "In describing a depth map of a piano, highlight the lighter areas that correspond to the nearer parts like the keys, with the darker areas indicating the sides and rear parts that are farther away.",
+        "A shaded depth chart of a sloped piano.",
+        "The depth map highlighted the piano, yet the play of shadows rendered some of its structure obscure."
+    ],
+    "plant": [
+        "A depth map of a plant displays the leaves and stems in various shades of gray, with parts closer to the viewer, like the leaves, appearing lighter and the base or pot appearing darker.",
+        "To describe a depth map of a plant, observe the gradations in gray, with the lighter areas signifying the parts of the plant that are closer, such as the leaves, and the darker shades indicating the distant parts, like the pot.",
+        "A tonal depth diagram of a slanted plant.",
+        "In the depth map, the plant appeared somewhat obscure, with its leaves and stems merging into the grayscale."
+    ],
+    "radio": [
+        "The depth map of a radio shows its buttons and dials in lighter gray, indicating closeness, while the rear parts appear in darker shades, suggesting greater distance.",
+        "When describing a depth map of a radio, focus on the lighter shades representing the front parts like the dials and speakers, and the darker shades indicating the rear and sides.",
+        "A grayscale contour portrayal of a reclined radio.",
+        "The radio, captured in the depth map, had details that became obscure as they receded, with the dials and speakers less distinct."
+    ],
+    "range_hood": [
+        "A depth map of a range hood would depict the front and controls in lighter tones, with the ductwork and rear parts appearing in darker shades, indicating distance.",
+        "Describing a depth map of a range hood involves noting the lighter areas that represent the closer parts like the front panel, contrasted with the darker areas depicting the distant ducts and back.",
+        "A monochrome depth representation of a tilted range hood.",
+        "The depth map of the range hood rendered some aspects obscure, blurring the edges and contours of its structure."
+    ],
+    "sink": [
+        "A depth map of a sink shows the basin and faucet in lighter gray tones, suggesting proximity, while the plumbing and distant parts appear darker.",
+        "To describe a depth map of a sink, highlight the variations in gray, with the lighter areas signifying closer parts like the basin, and the darker shades indicating the more distant plumbing.",
+        "A shaded depth chart of a sloped sink.",
+        "The depth map accentuated the sink, yet the shadows and contours made its structure somewhat obscure."
+    ],
+    "sofa": [
+        "A depth map of a sofa shows varying shades of gray, highlighting the cushions in lighter tones indicating closeness, and the frame and backrest in darker shades, suggesting greater distance.",
+        "To describe a depth map of a sofa, focus on the lighter areas that represent the nearer parts like the cushions, and the darker areas that depict the more distant parts like the frame and backrest.",
+        "A shaded depth representation of a slanted sofa.",
+        "The depth map brought out the sofa's form, but the fading shades rendered the details of its arms and backrest obscure."
+    ],
+    "stairs": [
+        "A depth map of stairs illustrates the steps in different shades of gray, with the top steps appearing lighter, closer to the viewer, and the lower steps progressively darker, indicating distance.",
+        "In describing a depth map of stairs, note the gradual change from lighter shades at the top steps, signifying proximity, to darker shades at the lower steps, indicating recession.",
+        "A grayscale gradient depiction of a descending staircase.",
+        "The depth map highlighted each step of the staircase, though the lower steps became less distinct in the grayer tones."
+    ],
+    "stool": [
+        "The depth map of a stool displays the seat in a lighter shade for its proximity, and the legs and underside in darker shades as they recede in distance.",
+        "When describing a depth map of a stool, emphasize the contrast between the lighter shade of the seat, indicating nearness, and the darker shades of the legs and underside, suggesting depth.",
+        "A tonal depth portrayal of a tilted stool.",
+        "On the depth map, the stool's structure was evident, but the details of its legs merged into the darker shades, becoming obscure."
+    ],
+    "table": [
+        "A depth map of a table illustrates the relative distances of the tabletop and legs, with the top likely appearing lighter, indicating closeness, and the legs darker as they extend away.",
+        "In describing a depth map of a table, identify the lighter shade of the tabletop as being nearer to the observer and the progressively darker shades of the legs as they recede in space.",
+        "A shaded depth chart of a sloped table.",
+        "The depth map accentuated the table, yet the shadows cast made its structure obscure."
+    ],
+    "tent": [
+        "A depth map of a tent shows its shape with varying gray tones, with the entrance and front part in lighter shades indicating nearness, and the rear in darker shades suggesting distance.",
+        "To describe a depth map of a tent, focus on the lighter shades at the entrance, depicting closeness, and the darker shades towards the rear, indicating depth.",
+        "A monochrome depth illustration of an angled tent.",
+        "The depth map of the tent revealed its contours, but the gradient shades made the details of its fabric and poles obscure."
+    ],
+    "toilet": [
+        "A depth map of a toilet shows the bowl and seat in lighter shades, indicating closeness, while the tank and base appear in darker tones, denoting distance.",
+        "To describe a depth map of a toilet, focus on the varying shades of gray, with lighter areas representing the nearer parts like the bowl and seat, and darker areas depicting the farther parts like the tank.",
+        "A monochrome depth representation of a tilted toilet.",
+        "The depth map of the toilet made certain features indistinct, blurring the lines between the bowl and the tank."
+    ],
+    "tv_stand": [
+        "A depth map of a TV stand would display its surface and frontal sections in lighter shades, while the back and lower parts appear darker, signifying depth.",
+        "Describing a depth map of a TV stand involves noting the lighter areas that represent the closer sections, like the top and front, and the darker shades for the more distant parts, like the back.",
+        "A shaded depth chart of a sloped TV stand.",
+        "In the depth map, the structure of the TV stand became obscure, with the edges and corners fading into the background."
+    ],
+    "vase": [
+        "The depth map of a vase typically shows the front curvature in lighter tones, while the sides and rear parts appear in darker shades, illustrating depth.",
+        "To describe a depth map of a vase, emphasize the lighter shades of the closer front curvature and the darker shades of the more distant sides and back.",
+        "A tonal depth diagram of a slanted vase.",
+        "In the depth map, the vase's contours became obscure, with its intricate patterns blending into the grayscale."
+    ],
+    "wardrobe": [
+        "A depth map of a wardrobe displays its doors and handles in lighter shades, suggesting closeness, and the sides and interior in darker tones, indicating depth.",
+        "Describing a depth map of a wardrobe involves highlighting the light shades of the doors and handles, which are nearer, and the darker shades of the sides and interior parts.",
+        "A grayscale contour portrayal of a reclined wardrobe.",
+        "The wardrobe's depth map made its structure seem obscure, with the details of its doors and handles becoming less distinct."
+    ],
+    "xbox": [
+        "The depth map of an Xbox shows the top and frontal areas in lighter shades, indicating closeness, and the sides and back in darker tones, suggesting depth.",
+        "To describe a depth map of an Xbox, focus on the light shades of the closer top and front parts, and the darker shades of the more distant sides and back.",
+        "A monochrome depth representation of a tilted Xbox.",
+        "In the depth map, the Xbox appeared obscure, with its edges and buttons fading into the grayscale."
+    ]
+}
